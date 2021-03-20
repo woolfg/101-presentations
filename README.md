@@ -4,7 +4,23 @@ I gave a lot of feedback to student presentations during my time working at the 
 
 # Content
 
-## Slides (Structure)
+## Structure
+
+## Presentations in Academia
+
+### Your contribution
+
+## Slides (Structure/General)
+
+### The 10/20/30 Rule
+
+### Pace: I am faster than 2 minutes per slide!
+
+### Just to impress the audience slide
+
+### Backup slides
+
+### Forget the Thank You slide!
 
 ## Slides (technical)
 
@@ -20,3 +36,5 @@ You want to present the performance of your algorithm and compare it to several 
 - Increase the brightness of your screen and monitor the change of contrast of your colors.
 
 Does anyone know a good website to check colors automatically? 
+
+### Font size of 30pt
